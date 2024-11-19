@@ -100066,7 +100066,7 @@ if(r!==q.d)if(B.b.m(m.f,q.c)){s=m.f
 r=$.dr().c
 s=B.b.cO(s,r==null?"":r)!==m.w}else s=!0}if(s)m.a_(new A.axZ(m))
 s=m.w
-r=A.zV(l,B.m,l,new A.rz(A.aQw(l,l,new A.zY("images/team_logo.png",l,l)),l,l,l,l),A.cs("Ionic-Scout",l,l,l,l,B.en,l,l,l,l))
+r=A.zV(l,B.m,l,new A.rz(A.aQw(l,l,new A.zY("images/team_logo.png",l,l)),l,l,l,l),A.cs("Sci-Scout",l,l,l,l,B.en,l,l,l,l))
 q=A.BL()
 p=t.NR
 o=t.w
@@ -101225,7 +101225,7 @@ fk(){var s,r=this
 r.aq6()
 s=r.a
 if(s===B.jJ&&r.c==null)r.c=!1
-return A.aB(["type",s.b,"questionText",r.b,"answer",J.a3(r.c,0),"options",r.d,"evaluation",r.e,"score",r.t0(0)],t.N,t.z)},
+return A.aB(["type",s.b,"questionText",r.b,"answer",r.c,"options",r.d,"evaluation",r.e,"score",r.t0(0)],t.N,t.z)},
 aq6(){var s,r,q,p,o=this
 if(o.a===B.hh){s=o.c
 if(s==null){o.c=A.z(t.N,t.z)
