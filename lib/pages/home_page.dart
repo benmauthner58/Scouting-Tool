@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage> {
     bool isRedAllianceTeamSelected = _selectedTeamIndex <= 2;
 
     return Scaffold(
-      appBar: getScoutAppBar("Ionic-Scout"),
+      appBar: getScoutAppBar("Sci-Scout"),
       body: Container(
         color: GlobalColors.backgroundColor,
         child: SingleChildScrollView(

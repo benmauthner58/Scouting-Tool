@@ -58,7 +58,7 @@ class Question {
     return {
       'type': type.name,
       'questionText': questionText,
-      'answer': answer[0],
+      'answer': answer,
       'options': options,
       'evaluation': evaluation,
       'score': evaluate(),
